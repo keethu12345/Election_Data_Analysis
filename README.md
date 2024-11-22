@@ -7,7 +7,7 @@ Data Cleaning: Processing the scraped data to remove inconsistencies, handle mis
 Data Preprocessing: Transforming and encoding the data to make it suitable for analysis and visualization.
 Data Visualization: Creating insightful visual representations of the election data to identify trends and patterns.
 
-###Key Features
+### Key Features
 Automated Data Collection: Efficiently scrape and compile election data from official websites and other reliable sources.
 Data Quality Assurance: Rigorous cleaning processes to ensure the dataset is accurate and reliable.
 Analytical Insights: Preprocessed data ready for various types of analysis, including statistical and machine learning models.
